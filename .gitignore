@@ -1,0 +1,7 @@
+*.o
+*.рус
+*.class
+**/bin
+**/out
+**/target
+workspace.xml
